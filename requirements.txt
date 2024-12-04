@@ -1,0 +1,7 @@
+asgiref
+Django
+djangorestframework
+djangorestframework-simplejwt
+pillow
+PyJWT
+sqlparse
